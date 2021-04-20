@@ -1,0 +1,11 @@
+Name: Chang Liu
+
+Model: (According to different variables)
+
+1. Exhaustive Model    all the variables             
+                                  Accuracy score:  0.7978
+2. Selective Model        3 variables: Siblings/Spouses aboard, Fare, Sex 
+                          (Because the P-value of them are the smallest )
+                                  Accuracy score:  0.7697
+
+Statement: The Exhaustive Model is better because it has higher accuracy score.
